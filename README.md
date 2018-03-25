@@ -1,0 +1,1 @@
+POID-Przetwarzanie-obrazu
